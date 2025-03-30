@@ -49,10 +49,10 @@
 				417,
 				443
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
-			"loop": false,
+			"indices": [],
 			"name": "idle"
 		}
 	],
@@ -63,12 +63,12 @@
 		-390,
 		290
 	],
-	"healthicon": "bf",
+	"healthicon": "dumidi",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
+		255,
 		176,
-		209
+		0
 	],
 	"camera_position": [
 		150,
