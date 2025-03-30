@@ -1,0 +1,68 @@
+{
+	"storyName": "15kopeck: april fools",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"pryanik",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"captain-pleasure",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"tvoi-batya",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"halal",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"popukai",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "15kopeck: april fools",
+	"hiddenUntilUnlocked": false
+}

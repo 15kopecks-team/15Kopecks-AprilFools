@@ -1,0 +1,356 @@
+{
+	"song": {
+		"events": [
+			[
+				118.110236220472,
+				[
+					[
+						"Camera Follow Pos",
+						"250",
+						"300"
+					]
+				]
+			],
+			[
+				13110.2362204724,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.8"
+					]
+				]
+			],
+			[
+				13228.3464566929,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				13582.6771653543,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"BF"
+					]
+				]
+			],
+			[
+				13700.7874015748,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"BF"
+					]
+				]
+			],
+			[
+				13877.9527559055,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"BF"
+					]
+				]
+			],
+			[
+				14055.1181102362,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"BF"
+					]
+				]
+			],
+			[
+				14232.2834645669,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"BF"
+					]
+				]
+			],
+			[
+				14409.4488188976,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				14586.6141732283,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				14763.7795275591,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				14940.9448818898,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				15059.0551181102,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15118.1102362205,
+				[
+					[
+						"singingCamMove",
+						"1",
+						""
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				26220.4724409449,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.56"
+					]
+				]
+			],
+			[
+				45236.2204724409,
+				[
+					[
+						"singingCamMove",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				45354.3307086614,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				49133.8582677165,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.56"
+					]
+				]
+			],
+			[
+				52913.3858267716,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				53149.6062992126,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				60472.4409448819,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.56"
+					]
+				]
+			],
+			[
+				64251.968503937,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.53"
+					]
+				]
+			],
+			[
+				75944.8818897638,
+				[
+					[
+						"singingCamMove",
+						"1",
+						""
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.56"
+					]
+				]
+			],
+			[
+				79370.0787401575,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				88818.8976377954,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.65"
+					]
+				]
+			],
+			[
+				90708.6614173229,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.56"
+					]
+				]
+			],
+			[
+				94488.188976378,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				102047.244094488,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"Dad"
+					]
+				]
+			],
+			[
+				102047.244094488,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.56"
+					]
+				]
+			],
+			[
+				102283.464566929,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"Dad"
+					]
+				]
+			],
+			[
+				102519.68503937,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"Dad"
+					]
+				]
+			],
+			[
+				102755.905511811,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"Dad"
+					]
+				]
+			],
+			[
+				105826.771653543,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.53"
+					]
+				]
+			],
+			[
+				105944.881889764,
+				[
+					[
+						"singingCamMove",
+						"0",
+						""
+					]
+				]
+			]
+		]
+	}
+}
